@@ -1,0 +1,9 @@
+C:\Users\Antoi\source\repos\FrameworksCA\FrameworksCA\bin\Debug\FrameworksCA.exe.config
+C:\Users\Antoi\source\repos\FrameworksCA\FrameworksCA\bin\Debug\FrameworksCA.exe
+C:\Users\Antoi\source\repos\FrameworksCA\FrameworksCA\bin\Debug\FrameworksCA.pdb
+C:\Users\Antoi\source\repos\FrameworksCA\FrameworksCA\obj\Debug\FrameworksCA.AppForm.resources
+C:\Users\Antoi\source\repos\FrameworksCA\FrameworksCA\obj\Debug\FrameworksCA.Properties.Resources.resources
+C:\Users\Antoi\source\repos\FrameworksCA\FrameworksCA\obj\Debug\FrameworksCA-Q1.csproj.GenerateResource.cache
+C:\Users\Antoi\source\repos\FrameworksCA\FrameworksCA\obj\Debug\FrameworksCA-Q1.csproj.CoreCompileInputs.cache
+C:\Users\Antoi\source\repos\FrameworksCA\FrameworksCA\obj\Debug\FrameworksCA.exe
+C:\Users\Antoi\source\repos\FrameworksCA\FrameworksCA\obj\Debug\FrameworksCA.pdb

@@ -1,0 +1,10 @@
+C:\Users\Antoi\source\repos\FrameworksCA\FrameworksQ3\bin\Debug\FrameworksQ3.exe.config
+C:\Users\Antoi\source\repos\FrameworksCA\FrameworksQ3\bin\Debug\FrameworksQ3.exe
+C:\Users\Antoi\source\repos\FrameworksCA\FrameworksQ3\bin\Debug\FrameworksQ3.pdb
+C:\Users\Antoi\source\repos\FrameworksCA\FrameworksQ3\obj\Debug\FrameworksQ3.Properties.Resources.resources
+C:\Users\Antoi\source\repos\FrameworksCA\FrameworksQ3\obj\Debug\Frameworks-Q3.csproj.GenerateResource.cache
+C:\Users\Antoi\source\repos\FrameworksCA\FrameworksQ3\obj\Debug\Frameworks-Q3.csproj.CoreCompileInputs.cache
+C:\Users\Antoi\source\repos\FrameworksCA\FrameworksQ3\obj\Debug\FrameworksQ3.exe
+C:\Users\Antoi\source\repos\FrameworksCA\FrameworksQ3\obj\Debug\FrameworksQ3.pdb
+C:\Users\Antoi\source\repos\FrameworksCA\FrameworksQ3\obj\Debug\Frameworks-Q3.csprojAssemblyReference.cache
+C:\Users\Antoi\source\repos\FrameworksCA\FrameworksQ3\obj\Debug\FrameworksQ3.AppForm.resources

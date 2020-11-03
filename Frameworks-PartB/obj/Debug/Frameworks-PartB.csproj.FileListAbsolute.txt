@@ -1,0 +1,10 @@
+C:\Users\Antoi\source\repos\FrameworksCA\Frameworks-PartB\bin\Debug\Frameworks-PartB.exe.config
+C:\Users\Antoi\source\repos\FrameworksCA\Frameworks-PartB\bin\Debug\Frameworks-PartB.exe
+C:\Users\Antoi\source\repos\FrameworksCA\Frameworks-PartB\bin\Debug\Frameworks-PartB.pdb
+C:\Users\Antoi\source\repos\FrameworksCA\Frameworks-PartB\obj\Debug\Frameworks_PartB.Properties.Resources.resources
+C:\Users\Antoi\source\repos\FrameworksCA\Frameworks-PartB\obj\Debug\Frameworks-PartB.csproj.GenerateResource.cache
+C:\Users\Antoi\source\repos\FrameworksCA\Frameworks-PartB\obj\Debug\Frameworks-PartB.csproj.CoreCompileInputs.cache
+C:\Users\Antoi\source\repos\FrameworksCA\Frameworks-PartB\obj\Debug\Frameworks-PartB.exe
+C:\Users\Antoi\source\repos\FrameworksCA\Frameworks-PartB\obj\Debug\Frameworks-PartB.pdb
+C:\Users\Antoi\source\repos\FrameworksCA\Frameworks-PartB\obj\Debug\Frameworks-PartB.csprojAssemblyReference.cache
+C:\Users\Antoi\source\repos\FrameworksCA\Frameworks-PartB\obj\Debug\Frameworks_PartB.AppForm.resources
